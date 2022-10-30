@@ -1,11 +1,24 @@
 {
-  "requires": true,
-  "lockfileVersion": 1,
+  "name": "3420_aws_website",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "index.js",
   "dependencies": {
-    "bootstrap": {
-      "version": "5.2.2",
-      "resolved": "https://registry.npmjs.org/bootstrap/-/bootstrap-5.2.2.tgz",
-      "integrity": "sha512-dEtzMTV71n6Fhmbg4fYJzQsw1N29hJKO1js5ackCgIpDcGid2ETMGC6zwSYw09v05Y+oRdQ9loC54zB1La3hHQ=="
-    }
-  }
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benschnuck/3420_AWS_Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benschnuck/3420_AWS_Website/issues"
+  },
+  "homepage": "https://github.com/benschnuck/3420_AWS_Website#readme"
 }
