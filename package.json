@@ -2,7 +2,7 @@
   "name": "3420_aws_website",
   "version": "1.0.0",
   "description": "Website",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.2"
